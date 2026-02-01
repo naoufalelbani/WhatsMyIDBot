@@ -2,7 +2,7 @@
 
 A Telegram bot that instantly shows your **User ID** and **Chat ID**.
 
-👉 **Use the bot:** https://t.me/YourBotUsername
+👉 **Use the bot:** https://t.me/my_chat_id_helper_bot
 
 ---
 
